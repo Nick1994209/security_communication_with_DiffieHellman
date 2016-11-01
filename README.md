@@ -1,4 +1,4 @@
-To implement Diffie-Hellman, the two end users Server and Client, while communicating over a channel they know to be private.
+Diffie-Hellman. Users (Server and Client) communicating over a private channel.
 
 **_For launch you must start main.py with requirements_**
 
